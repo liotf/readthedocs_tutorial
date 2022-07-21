@@ -6,6 +6,8 @@
 Welcome to my OSS' documentation!
 =================================
 
+This is a new change.
+
 Hello *world*. How do you do **today**? ``Good``.
 
 .. caution:: 
